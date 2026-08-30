@@ -1,7 +1,7 @@
 # kafka-microservices
 A simple Spring Boot and Apache Kafka microservices application with four modules: Order services, Email Services, Stock Services and one Base Domain.
 
-## Requirements
+## Requirement
 
 - [Java 17](https://adoptium.net/)
 - [Maven](https://maven.apache.org/)
